@@ -1,3 +1,4 @@
+"use client";
 import { ClientSideSuspense, RoomProvider } from "@liveblocks/react/suspense";
 import React from "react";
 import Loader from "./Loader";
