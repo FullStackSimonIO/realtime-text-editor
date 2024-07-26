@@ -22,7 +22,7 @@ declare global {
         name: string;
         email: string;
         avatar: string;
-        dedicatedColor: string;
+        color: string;
         // Example properties, for useSelf, useUser, useOthers, etc.
         // name: string;
         // avatar: string;
